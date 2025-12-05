@@ -1,5 +1,5 @@
 [build]
-  base = "HTML & CSS"
+  base = "/"
   publish = "."
   command = "# no build command needed for static site"
 
